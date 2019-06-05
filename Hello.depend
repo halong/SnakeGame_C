@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559747875 source:d:\codeblocks\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SnakeGame.h"
+
+1559747875 d:\codeblocks\hello\snakegame.h
+
+1559719631 source:d:\codeblocks\hello\snakegame.c
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"SnakeGame.h"
+
